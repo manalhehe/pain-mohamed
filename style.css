@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: #410ada;
+}
+
+h2 {
+    text-align: left;
+    color: rgb(235, 11, 11);
+    font-size: 50px; /* Remplace text-size-adjust */
+}
+
+h3 {
+    text-align: right;
+    color: blueviolet;
+}
+
+h4 {
+    font-size: 50px; /* Remplace text-size-adjust */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%; /* Assure que l'image ne dépasse pas la largeur du conteneur */
+    height: auto; /* Garde les proportions */
+}
